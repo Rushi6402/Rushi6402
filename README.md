@@ -20,10 +20,10 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: "Your Name"
+name: "Rushikesh Patil"
 role: "Senior DevOps / Cloud Engineer"
-location: "Your City, Country 🌍"
-experience: "X+ years"
+location: "Pune, India 🌍"
+
 
 passions:
   - "Designing fault-tolerant AWS architectures"
