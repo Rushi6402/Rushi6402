@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Your%20Name&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20Architect%20%7C%20Cloud%20Craftsman&descAlignY=55&descSize=18" width="100%" />
+<!-- Animated Banner 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Your%20Name&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20Architect%20%7C%20Cloud%20Craftsman&descAlignY=55&descSize=18" width="100%" />  -->
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Automating+the+world%2C+one+pipeline+at+a+time+%F0%9F%9A%80;Building+resilient+cloud+infrastructure+%E2%98%81%EF%B8%8F;Infrastructure+as+Code+enthusiast+%F0%9F%8F%97%EF%B8%8F;CI%2FCD+%7C+Kubernetes+%7C+Terraform+%7C+AWS)](https://git.io/typing-svg) 
