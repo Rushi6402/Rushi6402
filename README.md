@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Profile Badges -->
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]
 [![DevOps](https://img.shields.io/badge/DevOps-Engineer-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)]()
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github&logoColor=white)]()
 
