@@ -103,25 +103,6 @@ fun_fact: "I treat infrastructure like code — versioned, tested, and reviewed.
 
 </div>
 
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-| Badge | Certification | Status |
-|-------|--------------|--------|
-| ☁️ | AWS Solutions Architect – Associate | ✅ Certified |
-| 🔐 | AWS Security Specialty | ✅ Certified |
-| 🐳 | Certified Kubernetes Administrator (CKA) | ✅ Certified |
-| 🏗️ | HashiCorp Certified: Terraform Associate | ✅ Certified |
-| 🛡️ | AWS DevOps Engineer – Professional | 🔄 In Progress |
-
-</div>
-
-> ⚡ *Add or remove rows to match your actual certifications!*
-
----
 
 ## 🚀 Featured Projects
 
