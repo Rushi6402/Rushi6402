@@ -18,7 +18,7 @@
 
 ```yaml
 name: "Rushikesh Patil"
-role: "Senior DevOps / Cloud Engineer"
+role: " DevOps / Cloud Engineer"
 location: "Pune, India 🌍"
 
 
